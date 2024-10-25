@@ -24,7 +24,7 @@ pull-requests are very welcomed. __Please do not list any confidential projects!
 
 | Google Internal | Google External                          | Open Source / Real-World                 |
 | --------------- | ---------------------------------------- | ---------------------------------------- |
-| [xmanager](https://github.com/google/xmanager)   | [xmanager](https://github.com/google/xmanager)  | [wandb](https://github.com/wandb/wandb), [mlflow](https://github.com/mlflow/mlflow), [tensorboard](https://github.com/tensorflow/tensorboard), [slurm](https://github.com/SchedMD/slurm), [ray](https://github.com/ray-project/ray), [skypilot](https://github.com/skypilot-org/skypilot) |
+| [xmanager](https://github.com/google-deepmind/xmanager)   | [xmanager](https://github.com/google-deepmind/xmanager)  | [wandb](https://github.com/wandb/wandb), [mlflow](https://github.com/mlflow/mlflow), [tensorboard](https://github.com/tensorflow/tensorboard), [slurm](https://github.com/SchedMD/slurm), [ray](https://github.com/ray-project/ray), [skypilot](https://github.com/skypilot-org/skypilot) |
 | [vizier](https://github.com/google/vizier) | [vizier](https://github.com/google/vizier) | [autogluon](https://github.com/autogluon/autogluon) |
 
 
