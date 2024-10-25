@@ -32,7 +32,7 @@ pull-requests are very welcomed. __Please do not list any confidential projects!
 
 | Google Internal | Google External                          | Open Source / Real-World                 |
 | --------------- | ---------------------------------------- | ---------------------------------------- |
-| Gemax scale / prod pre-training   |  | [transformers](https://github.com/huggingface/transformers), [composer](https://github.com/mosaicml/composer), [ms-swift](https://github.com/modelscope/ms-swift) |
+| Gemax scale / prod pre-training   |  | [transformers](https://github.com/huggingface/transformers), [composer](https://github.com/mosaicml/composer), [ms-swift](https://github.com/modelscope/ms-swift), [unsloth](https://github.com/unslothai/unsloth) |
 | Gemax post-training    |  | [trl](https://github.com/huggingface/trl) |
 
 
