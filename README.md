@@ -8,7 +8,7 @@ pull-requests are very welcomed. __Please do not list any confidential projects!
 
 ## AI/ML Stacks
 
-### Fundamental Models (LLM, VLM, Image Generation, Video Generation, etc.)
+### Foundation Models (LLM/VLM, Image Generation, Video Generation, etc.)
 
 | Google Internal | Google External                          | Open Source / Real-World                 |
 | --------------- | ---------------------------------------- | ---------------------------------------- |
