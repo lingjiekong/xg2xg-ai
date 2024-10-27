@@ -58,6 +58,15 @@ pull-requests are very welcomed. __Please do not list any confidential projects!
 | --------------- | ---------------------------------------- | ---------------------------------------- |
 | []() | []() | [evals](https://github.com/openai/evals) |
 
+
+### Infrastructure
+
+| Google Internal | Google External                          | Open Source / Real-World                 |
+| --------------- | ---------------------------------------- | ---------------------------------------- |
+| [TensorFlow](https://github.com/tensorflow/tensorflow), [Jax](https://github.com/jax-ml/jax), [Flax](https://github.com/google/flax), [optax](https://github.com/google-deepmind/optax), [orbax](https://github.com/google/orbax), [ConfigDict](https://github.com/google/ml_collections) | [TensorFlow](https://github.com/tensorflow/tensorflow), [Jax](https://github.com/jax-ml/jax), [Flax](https://github.com/google/flax), [optax](https://github.com/google-deepmind/optax), [orbax](https://github.com/google/orbax), [ConfigDict](https://github.com/google/ml_collections) | [pytorch](https://github.com/pytorch/pytorch) |
+| [Pallas](https://jax.readthedocs.io/en/latest/pallas/index.html) | [Pallas](https://jax.readthedocs.io/en/latest/pallas/index.html) | [Triton](https://github.com/triton-lang/triton) |
+
+
 ### Tools
 
 | Google Internal | Google External                          | Open Source / Real-World                 |
