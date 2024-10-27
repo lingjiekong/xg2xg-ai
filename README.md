@@ -41,15 +41,15 @@ pull-requests are very welcomed. __Please do not list any confidential projects!
 
 | Google Internal | Google External                          | Open Source / Real-World                 |
 | --------------- | ---------------------------------------- | ---------------------------------------- |
-| Gemax scale / prod pre-training   |  | [transformers](https://github.com/huggingface/transformers), [composer](https://github.com/mosaicml/composer), [ms-swift](https://github.com/modelscope/ms-swift), [unsloth](https://github.com/unslothai/unsloth) |
-| Gemax post-training    |  | [trl](https://github.com/huggingface/trl) |
+| Pre-training  |  | [transformers](https://github.com/huggingface/transformers), [composer](https://github.com/mosaicml/composer), [ms-swift](https://github.com/modelscope/ms-swift), [unsloth](https://github.com/unslothai/unsloth) |
+| Post-training    |  | [trl](https://github.com/huggingface/trl) |
 
 
 ### Inference/Serving
 
 | Google Internal | Google External                          | Open Source / Real-World                 |
 | --------------- | ---------------------------------------- | ---------------------------------------- |
-| Sax / Evergreen  |   | [vllm](https://github.com/vllm-project/vllm), [sglang](https://github.com/sgl-project/sglang), [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) |
+| []() | []() | [vllm](https://github.com/vllm-project/vllm), [sglang](https://github.com/sgl-project/sglang), [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) |
 
 
 ### Evaluation
@@ -71,16 +71,16 @@ pull-requests are very welcomed. __Please do not list any confidential projects!
 
 | Google Internal | Google External                          | Open Source / Real-World                 |
 | --------------- | ---------------------------------------- | ---------------------------------------- |
-| Evergreen Agent   | | [swarm](https://github.com/openai/swarm), [crewai](https://github.com/crewAIInc/crewAI), [autogen](https://github.com/microsoft/autogen) |
-| SILM (Self-Improved Language Model)   |   | [langgraph](https://github.com/langchain-ai/langgraph) |
-| DASM (Data Assembly)   |   | [dspy](https://github.com/stanfordnlp/dspy) |
-| [OneTwo](https://github.com/google-deepmind/onetwo) | | [langchain](https://github.com/langchain-ai/langchain) |
+| LLM Agent | []() | [swarm](https://github.com/openai/swarm), [crewai](https://github.com/crewAIInc/crewAI), [autogen](https://github.com/microsoft/autogen) |
+| LLM Graph | []() | [langgraph](https://github.com/langchain-ai/langgraph) |
+| LLM Programming | []() | [dspy](https://github.com/stanfordnlp/dspy) |
+| [OneTwo](https://github.com/google-deepmind/onetwo) | []() | [langchain](https://github.com/langchain-ai/langchain) |
 
 ### Visualization
 
 | Google Internal | Google External                          | Open Source / Real-World                 |
 | --------------- | ---------------------------------------- | ---------------------------------------- |
-| Loupt   |  | [streamlit](https://github.com/streamlit/streamlit), [gradio](https://github.com/gradio-app/gradio) |
+| []()  | []() | [streamlit](https://github.com/streamlit/streamlit), [gradio](https://github.com/gradio-app/gradio), [altair](https://github.com/vega/altair), [bokeh](https://github.com/bokeh/bokeh) |
 
 
 *disclaimer: I'm not affiliated with any of the technologies/products mentioned above.*
