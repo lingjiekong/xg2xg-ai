@@ -15,6 +15,7 @@ pull-requests are very welcomed. __Please do not list any confidential projects!
 | [Gemini](https://gemini.google.com/) | [Gemma](https://github.com/google-deepmind/gemma) | [OpenAI ChatGPT](https://chat.openai.com/), [Anthropic Claude](https://claude.ai/), [Meta LLaMA](https://www.llama.com), [Mixtral](https://mistral.ai/technology/#models)|
 | [Imagen 3](https://deepmind.google/technologies/imagen-3/)| | [stable diffusion](https://github.com/CompVis/stable-diffusion) |
 | [Veo](https://deepmind.google/technologies/veo/) | | [Sora](https://openai.com/index/sora/), [Open-Sora](https://github.com/hpcaitech/Open-Sora), [runway](https://runwayml.com/), [pika](https://pika.art/home), [Mochi](https://github.com/genmoai/models)|
+| | | [OpenAI Realtime](https://openai.com/index/introducing-the-realtime-api/), [moshi](https://github.com/kyutai-labs/moshi)|
 
 ### Data Curation Pipeline
 
