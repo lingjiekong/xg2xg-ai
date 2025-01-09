@@ -56,7 +56,7 @@ pull-requests are very welcomed. __Please do not list any confidential projects!
 
 | Google Internal | Google External                          | Open Source / Real-World                 |
 | --------------- | ---------------------------------------- | ---------------------------------------- |
-|  |  |  |
+|  |  | [Lepton](https://github.com/leptonai), [Modal](https://github.com/modal-labs), [Firework](https://fireworks.ai/) |
 
 
 ### Evaluation
