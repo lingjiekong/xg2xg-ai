@@ -21,7 +21,7 @@ pull-requests are very welcomed. __Please do not list any confidential projects!
 
 | Google Internal | Google External                          | Open Source / Real-World                 |
 | --------------- | ---------------------------------------- | ---------------------------------------- |
-| [Flume](https://ai.google/research/pubs/pub35650)   | [DataFlow](https://cloud.google.com/dataflow)  | [Apache Beam](https://beam.apache.org/) |
+| [Flume](https://ai.google/research/pubs/pub35650)   | [DataFlow](https://cloud.google.com/dataflow)  | [Apache Beam](https://beam.apache.org/), [Apache Spark](https://spark.apache.org/), [DataChain](https://github.com/iterative/datachain) | [Daft](https://github.com/Eventual-Inc/Daft) |
 
 ### Data loader
 
@@ -33,7 +33,7 @@ pull-requests are very welcomed. __Please do not list any confidential projects!
 
 | Google Internal | Google External                          | Open Source / Real-World                 |
 | --------------- | ---------------------------------------- | ---------------------------------------- |
-| [xmanager](https://github.com/google-deepmind/xmanager)   | [xmanager](https://github.com/google-deepmind/xmanager)  | [wandb](https://github.com/wandb/wandb), [mlflow](https://github.com/mlflow/mlflow), [tensorboard](https://github.com/tensorflow/tensorboard), [slurm](https://github.com/SchedMD/slurm), [ray](https://github.com/ray-project/ray), [skypilot](https://github.com/skypilot-org/skypilot) |
+| [xmanager](https://github.com/google-deepmind/xmanager)   | [xmanager](https://github.com/google-deepmind/xmanager)  | [wandb](https://github.com/wandb/wandb), [mlflow](https://github.com/mlflow/mlflow), [dvc](https://github.com/iterative/dvc), [tensorboard](https://github.com/tensorflow/tensorboard), [slurm](https://github.com/SchedMD/slurm), [ray](https://github.com/ray-project/ray), [skypilot](https://github.com/skypilot-org/skypilot) |
 | [vizier](https://github.com/google/vizier) | [vizier](https://github.com/google/vizier) | [autogluon](https://github.com/autogluon/autogluon) |
 
 
@@ -45,11 +45,18 @@ pull-requests are very welcomed. __Please do not list any confidential projects!
 | Post-training    |  | [trl](https://github.com/huggingface/trl) |
 
 
-### Inference/Serving
+### Inference/Serving stacks
 
 | Google Internal | Google External                          | Open Source / Real-World                 |
 | --------------- | ---------------------------------------- | ---------------------------------------- |
 | []() | []() | [vllm](https://github.com/vllm-project/vllm), [sglang](https://github.com/sgl-project/sglang), [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) |
+
+
+### Inference/Serving Platforms
+
+| Google Internal | Google External                          | Open Source / Real-World                 |
+| --------------- | ---------------------------------------- | ---------------------------------------- |
+|  |  |  |
 
 
 ### Evaluation
