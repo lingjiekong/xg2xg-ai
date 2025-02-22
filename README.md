@@ -42,7 +42,7 @@ pull-requests are very welcomed. __Please do not list any confidential projects!
 | Google Internal | Google External                          | Open Source / Real-World                 |
 | --------------- | ---------------------------------------- | ---------------------------------------- |
 | Pre-training  |  | [transformers](https://github.com/huggingface/transformers), [composer](https://github.com/mosaicml/composer), [ms-swift](https://github.com/modelscope/ms-swift), [unsloth](https://github.com/unslothai/unsloth) |
-| Post-training    |  | [trl](https://github.com/huggingface/trl) |
+| Post-training    |  | [trl](https://github.com/huggingface/trl), [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF), [verl](https://github.com/volcengine/verl),  |
 
 
 ### Inference/Serving stacks
